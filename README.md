@@ -2,7 +2,7 @@
 
 	#name : Kimhyesu
     
-	#learning C# winform and video proccessing, plc
+	#learning C# winform and video proccessing, avr
 	
 	# Youtube 채널 : 김혜수
 	# Tistory : https://khs2346.tistory.com/
