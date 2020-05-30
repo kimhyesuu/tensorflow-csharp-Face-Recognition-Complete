@@ -1,9 +1,7 @@
-# Face-_recognition
+#instruction
 
-개발 환경 : vs 2017 mysql
-
-
-  #name : Kimhyesu
+	#name : Kimhyesu
+    
 	#learning C# winform and video proccessing
 	
 	# Youtube 채널 : 김혜수
@@ -12,13 +10,15 @@
 	# contact
 	
 	# E-mail : juid00@naver.com
-	# phone number : 010-2337-2346
 
 
+# Face-_recognition
+
+개발 환경 : vs 2017 mysql
 
 훈련 data : tensorflow(face recognition) haar - cascade(full-body recognition)
-C# : opencvsharp4
-
+	C# : opencvsharp4
+	
 #설명
 
 pdf 참조
