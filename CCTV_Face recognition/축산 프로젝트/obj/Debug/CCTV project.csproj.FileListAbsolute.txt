@@ -1,0 +1,75 @@
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\축산 프로젝트.exe.config
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\축산 프로젝트.exe
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\축산 프로젝트.pdb
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\MySql.Data.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Google.Protobuf.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Zstandard.Net.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Ubiety.Dns.Core.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Renci.SshNet.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\System.Buffers.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\CCTV project.csprojAssemblyReference.cache
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.exe.config
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산_프로젝트.CCTV.resources
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산_프로젝트.FaceID.resources
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산_프로젝트.Properties.Resources.resources
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\CCTV project.csproj.GenerateResource.cache
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\CCTV project.csproj.CoreCompileInputs.cache
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\CCTV project.csproj.CopyComplete
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.exe
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.pdb
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\축산 프로젝트.exe.config
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\축산 프로젝트.exe
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\축산 프로젝트.pdb
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\MySql.Data.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\Google.Protobuf.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\Zstandard.Net.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\Renci.SshNet.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\System.Buffers.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\MySql.Data.xml
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.xml
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\CCTV project.csprojAssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\축산 프로젝트.exe.config
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\축산_프로젝트.CCTV.resources
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\축산_프로젝트.FaceID.resources
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\축산_프로젝트.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\CCTV project.csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\CCTV project.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\CCTV project.csproj.CopyComplete
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\축산 프로젝트.exe
+C:\Users\NEXT_ENERGY\Desktop\미니프로젝트(vol3)김혜수\CCTV 및 얼굴인식\축산 프로젝트\obj\Debug\축산 프로젝트.pdb

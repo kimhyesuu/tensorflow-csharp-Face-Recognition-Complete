@@ -1,0 +1,117 @@
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\축산 프로젝트.exe.config
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\축산 프로젝트.exe
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\축산 프로젝트.pdb
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.xml
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.xml
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.xml
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.csprojAssemblyReference.cache
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산_프로젝트.Properties.Resources.resources
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.GenerateResource.cache
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.CoreCompileInputs.cache
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.CopyComplete
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.exe
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.pdb
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\MySql.Data.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\Google.Protobuf.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\Zstandard.Net.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\Ubiety.Dns.Core.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\Renci.SshNet.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\System.Buffers.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산 프로젝트.exe.config
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산_프로젝트.MainForm.resources
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산_프로젝트.CCTV.resources
+D:\project\c#\축산 관리 시스템 - 김혜수\축산 프로젝트\obj\Debug\축산_프로젝트.FaceID.resources
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\축산 프로젝트.exe.config
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\축산 프로젝트.exe
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\축산 프로젝트.pdb
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\MySql.Data.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\Google.Protobuf.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\Zstandard.Net.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\Ubiety.Dns.Core.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\Renci.SshNet.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\System.Buffers.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.xml
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.xml
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.xml
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\project\c#\Day021\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.csprojAssemblyReference.cache
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.exe.config
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.CCTV.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.FaceID.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.MainForm.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.Properties.Resources.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.GenerateResource.cache
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.CoreCompileInputs.cache
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.CopyComplete
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.exe
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산 프로젝트.pdb
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.FarmMagement.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.FanMotor.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.Special_management.resources
+D:\project\c#\Day021\축산 프로젝트\obj\Debug\축산_프로젝트.COWInFomation.resources
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\축산 프로젝트.exe.config
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\축산 프로젝트.exe
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\축산 프로젝트.pdb
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\MySql.Data.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Google.Protobuf.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Zstandard.Net.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Ubiety.Dns.Core.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\Renci.SshNet.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\System.Buffers.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Blob.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.Extensions.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\project\c#\영상 응용\축산 프로젝트\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.csprojAssemblyReference.cache
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.exe.config
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산_프로젝트.CCTV.resources
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산_프로젝트.FaceID.resources
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산_프로젝트.Properties.Resources.resources
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.GenerateResource.cache
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.CoreCompileInputs.cache
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.csproj.CopyComplete
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.exe
+D:\project\c#\영상 응용\축산 프로젝트\obj\Debug\축산 프로젝트.pdb
