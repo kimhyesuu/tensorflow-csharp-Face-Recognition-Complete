@@ -1,6 +1,6 @@
 # Face-_recognition
 
-훈련 data : tensorflow(face recognition) haarcascade(full-body recognition)
+훈련 data : tensorflow(face recognition) haar - cascade(full-body recognition)
 C# : opencvsharp4
 
 #설명
