@@ -4,7 +4,7 @@
     
 	#learning C# winform and video proccessing, avr
 	
-	# Youtube 채널 : 김혜수
+ 	 # Youtube channel : Kim Hyesuu
 	# Tistory : https://khs2346.tistory.com/
 	
 	# contact
